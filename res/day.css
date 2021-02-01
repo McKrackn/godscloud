@@ -1,0 +1,29 @@
+
+#banner{
+    background-color: #e9ecef6b;
+    color: #212529;
+}
+
+.content {
+    background-color: rgb(221 221 221 / 0.1);
+    border: 2rem solid rgba(221, 221, 221, 0.1);
+    color: #212529;
+}
+
+.contentborder {
+    border: 2rem solid rgba(221, 221, 221, 0.2);
+    background-color: rgb(221 221 221);
+}
+
+h3, .h3 {
+    background-color: #6e8ba9ad;
+}
+
+.rotate:hover {
+    animation-play-state: paused;
+    width: 66px;
+}
+
+.message {
+    background-color:rgb(221 221 221);
+}
